@@ -9,4 +9,8 @@ public interface QueueNameConstant {
      String PUBLISH_SUBSCRIBE_QUEUE_NAME = "public_subscribe";
 
      String PUBLISH_SUBSCRIBE_QUEUE_NAME2 = "public_subscribe_two";
+
+     String TTL_MESSAGE_QUEUE = "ttl_10s_message_queue";
+
+     String DEAD_MESSAGE_QUEUE = "dead_message_queue";
 }
